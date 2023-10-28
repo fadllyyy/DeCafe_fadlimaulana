@@ -167,7 +167,7 @@
     <main class="form-signin w-100 m-auto">
         <form class="needs-validation" novalidate action="proses/proses_login.php" method="POST">
             <i class="bi bi-cup-hot fs-1"></i>
-            <h1 class="h3 mb-3 fw-normal">selamat datang</h1>
+            <h1 class="h3 mb-3 fw-normal">Login</h1>
 
             <div class="form-floating">
                 <input name="username" type="email" class="form-control" id="floatingInput" placeholder="name@example.com" required>
