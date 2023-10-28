@@ -28,7 +28,7 @@ CREATE TABLE IF NOT EXISTS `tb_user` (
 -- Dumping data for table db_decafe.tb_user: ~0 rows (approximately)
 INSERT INTO `tb_user` (`id`, `nama`, `username`, `password`, `level`, `nohp`) VALUES
 	(1, 'abc1', 'abc1@abc.com', '5f4dcc3b5aa765d61d8327deb882cf99', 2, '123456789011'),
-	(2, 'owner', 'admin@admin.com', '5f4dcc3b5aa765d61d8327deb882cf99', 1, '123456789011'),
+	(2, 'owner', 'fad@admin.com', '5f4dcc3b5aa765d61d8327deb882cf99', 1, '123456789011'),
 	(3, 'abc2', 'abc2@abc.com', '5f4dcc3b5aa765d61d8327deb882cf99', 3, '123456789011'),
 	(4, 'abc3', 'abc3@abc.com', '5f4dcc3b5aa765d61d8327deb882cf99', 4, '123456789011');
 
